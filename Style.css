@@ -1,0 +1,43 @@
+﻿body {
+    background-image: url(images/baybladearena.jpg);
+    background-repeat: no-repeat;
+}
+img {
+    width: 50px;
+}
+
+#computer
+{
+    position: relative;
+    top: 150px;
+}
+
+#player1 
+{
+    position: relative;
+    bottom: 130px;
+}
+
+#startAgain 
+{
+    position: relative;
+    top: 140px;
+    left: 450px;
+}
+#startAgain > img 
+{
+    width: 100px;
+    height: 100px;
+}
+
+#Deck 
+{
+    position: relative;
+    top: 200px;
+    left: 250px;
+}
+#changeColor {
+    position: relative;
+    bottom: 80px;
+    left: 450px;
+}
